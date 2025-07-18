@@ -16,8 +16,7 @@ With a combination of technical expertise and a focus on user-friendliness, I am
 
 *   🌍  I'm based in Asker, Norway
 *   ✉️  You can contact me at [camilla.meskestad@gmail.com](mailto:camilla.meskestad@gmail.com)
-*   🧠  I'm learning React, Next.js and TailWind
-*   🤝  I'm open to collaborating on all interesting projects
+
 
 ### Skills 
 <p align="left">
